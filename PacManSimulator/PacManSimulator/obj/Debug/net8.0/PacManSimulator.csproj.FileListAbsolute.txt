@@ -1,0 +1,70 @@
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.deps.json
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.runtimeconfig.json
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/refint/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.genruntimeconfig.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/ref/PacManSimulator.dll
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.exe
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.deps.json
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.runtimeconfig.json
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.dll
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.pdb
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.AssemblyInfoInputs.cache
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.AssemblyInfo.cs
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.csproj.CoreCompileInputs.cache
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.dll
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/refint/PacManSimulator.dll
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.pdb
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.genruntimeconfig.cache
+C:/Users/colas/OneDrive - uc.cl/Documentos/UC/Semestre 11 UC Ingeniería/Ayudantía Diseño Detallado de Software/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/ref/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/bin/Debug/net8.0/PacManSimulator
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/bin/Debug/net8.0/PacManSimulator.deps.json
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/bin/Debug/net8.0/PacManSimulator.runtimeconfig.json
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/bin/Debug/net8.0/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/bin/Debug/net8.0/PacManSimulator.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/obj/Debug/net8.0/PacManSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/obj/Debug/net8.0/PacManSimulator.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/obj/Debug/net8.0/PacManSimulator.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/obj/Debug/net8.0/PacManSimulator.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/obj/Debug/net8.0/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/obj/Debug/net8.0/refint/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/obj/Debug/net8.0/PacManSimulator.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/obj/Debug/net8.0/PacManSimulator.genruntimeconfig.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/PacManSimulator_sol/PacManSimulator/obj/Debug/net8.0/ref/PacManSimulator.dll
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.exe
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.deps.json
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.runtimeconfig.json
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.dll
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.pdb
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.AssemblyInfoInputs.cache
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.AssemblyInfo.cs
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.csproj.CoreCompileInputs.cache
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.dll
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/refint/PacManSimulator.dll
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.pdb
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.genruntimeconfig.cache
+C:/Users/colas/Downloads/PacManSimulator/PacManSimulator/PacManSimulator/obj/Debug/net8.0/ref/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.deps.json
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.runtimeconfig.json
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/bin/Debug/net8.0/PacManSimulator.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/refint/PacManSimulator.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/PacManSimulator.genruntimeconfig.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Examen/P2/V2/PacManSimulator/PacManSimulator/obj/Debug/net8.0/ref/PacManSimulator.dll

@@ -1,0 +1,13 @@
+##########
+#NNNNNNNN#
+#N###N##N#
+#N#NNNN#N#
+#N#N##N#N#
+#NNN#GN#N#
+#N#N####N#
+#N#NNNNNN#
+#N#####N##
+#NNNNNNN##
+##G####G##
+#######G##
+##########
