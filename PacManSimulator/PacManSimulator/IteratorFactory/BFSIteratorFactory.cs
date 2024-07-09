@@ -7,9 +7,7 @@ namespace PacManSimulator.IteratorFactory;
 public class BFSIteratorFactory : IFactory
 {
     
-    //En concreto, tienes que implementar dos m´etodos. El primero es CreateProduct(Node root) dentro de
-    // BFSIteratorFactory. Ese m´etodo debe retornar un iterador que ejecute una b´usqueda por amplitud.
-    public Iterator CreateProduct(Node root)
+    public Iterator CreateProduct(Node root, Goal goal)
     {
         return new BFSIterator(root);
     }

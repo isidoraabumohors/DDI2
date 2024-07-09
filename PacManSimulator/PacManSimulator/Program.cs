@@ -1,6 +1,7 @@
 ﻿using PacManSimulator;
 using PacManSimulator.IteratorFactory;
 using PacManSimulator.SimulatorClasses;
+using PacManSimulator.SimulatorClasses.Enums;
 
 string path = "Mazes/maze_9.txt";
 string path2 = "StartingPositions/positions_9.txt";

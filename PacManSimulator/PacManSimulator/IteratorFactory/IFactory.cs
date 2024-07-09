@@ -6,5 +6,5 @@ namespace PacManSimulator.IteratorFactory;
 
 public interface IFactory
 {
-    Iterator CreateProduct(Node root);
+    Iterator CreateProduct(Node root, Goal goal);
 }

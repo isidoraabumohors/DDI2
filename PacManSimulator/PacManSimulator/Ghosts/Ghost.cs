@@ -125,3 +125,32 @@ public class Ghost : AbstractGhost
         }
     }
 }
+
+/*
+Parte C: Implementa el patr´on state (1 punto)
+La clase Ghost tiene la l´ogica que controla el comportamiento de los fantasmas. Pero su implementaci´on se
+basa en muchos switchs duplicados. Tu objetivo es mejorar esta implementaci´on utilizando el patr´on state.
+Actualmente, el comportamiento del fantasma est´a modelado utilizando 4 estados posibles:
+SeekPlayer: En este estado el objetivo es Pac-Man. Si Pac-Man es encontrado, Pac-Man muere.
+Adem´as, el fantasma avanza un solo espacio por turno. Si Pac-Man come un super punto el estado
+cambia a FleeFromPlayer. Si el fantasma lleva 10 turnos seguidos en este estado, en el turno 11 cambia
+al estado GetAngry (ver parte D).
+FleeFromPlayer: En este estado el objetivo es volver a la base. En cada turno, el fantasma avanza un
+espacio. Si encuentra a Pac-Man, Pac-Man no muere (pues acaba de comer un super punto) y el estado
+cambia a ReturnToBase. Si se llega a la base, el estado cambia a WanderAroundBase. Si han pasado 3
+iteraciones desde que Pac-Man comi´o el super punto, en la iteraci´on 4 el estado cambia a SeekPlayer.
+Pero si Pac-Man vuelve a comer un super punto, entonces el contador se reseta.
+ReturnToBase: En este estado Pac-Man acaba de comer al fantasma, por lo que debe volver a la base
+para revivir. En este estado, el objetivo es volver a la base. Para ello, el fantasma avanza dos casillas
+por turno. Encontrar a Pac-Man no cambia el estado ni mata a Pac-Man. Llegar a la base hace que el
+estado cambie a WanderAroundBase.
+2
+WanderAroundBase: En este estado, el fantasma ya se encuentra en la base y se mantiene ah´ı, sin
+moverse, por 2 iteraciones. En la tercera iteraci´on el estado cambia a SeekPlayer.
+La implementaci´on actual consta de 6 m´etodos principales. GetGoal() retorna el objetivo actual del fantasma.
+El m´etodo GetNextPosition(...) define cu´antos espacios se mueve el fantasma en cada iteraci´on. Luego
+hay 4 m´etodos UpdateStateWhen... que actualizan el estado seg´un lo que ocurre en el juego. Adem´as, el
+m´etodo UpdateStateWhenPacManIsEncountered() lanza una excepci´on si es que Pac-Man muere.
+Si al implementar state no rompiste nada, deber´ıas seguir pasando todos los test cases de la parte C.*/
+
+// Respondeme to do en un solo trozo de codigo, por favor. Gracias.

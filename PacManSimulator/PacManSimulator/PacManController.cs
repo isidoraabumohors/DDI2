@@ -11,7 +11,7 @@ public static class PacManController
     public static List<Node> GetNodesVisited(Node root, Goal goal, IFactory iteratorFactory)
     {
         List<Node> visitedNodes = new List<Node>();
-        Iterator iterator = iteratorFactory.CreateProduct(root);
+        Iterator iterator = iteratorFactory.CreateProduct(root, goal);
 
         while (iterator.HasMore())
         {
@@ -27,8 +27,11 @@ public static class PacManController
         return visitedNodes;
     }
     
+    
     public static IFactory GetAvoidPacManBFSFactory()
     {
-        throw new NotImplementedException();
+        return new AvoidPacManBFSIteratorFactory();
     }
 }
+
+
