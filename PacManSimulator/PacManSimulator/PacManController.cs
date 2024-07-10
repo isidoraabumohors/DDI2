@@ -27,7 +27,6 @@ public static class PacManController
         return visitedNodes;
     }
     
-    
     public static IFactory GetAvoidPacManBFSFactory()
     {
         return new AvoidPacManBFSIteratorFactory();
